@@ -1,0 +1,16 @@
+# Dependencies
+node_modules/
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Build & System artifacts
+dist/
+.vercel/
+.system_generated/
+*.log
+.DS_Store
+
+.vercel
